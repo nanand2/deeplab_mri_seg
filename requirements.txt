@@ -1,0 +1,8 @@
+tqdm
+Pillow
+matplotlib
+opencv-python
+nibabel
+numpy
+glob2
+tensorflow==1.14.0
