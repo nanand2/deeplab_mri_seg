@@ -75,9 +75,9 @@ Segmentation classes -- finetuned model
 
 
 Example pre-trained results
-![example_pretrained results](https://github.com/nanand2/deeplab_mri_seg_test/blob/master/imgs/example_pretrained.png)
+![example_pretrained results](https://github.com/nanand2/deeplab_mri_seg/blob/master/imgs/example_pretrained.png)
 
 
 Example fine-tuned results
-![example_finetuned results](https://github.com/nanand2/deeplab_mri_seg_test/blob/master/imgs/example_finetuned.png)
+![example_finetuned results](https://github.com/nanand2/deeplab_mri_seg/blob/master/imgs/example_finetuned.png)
 
