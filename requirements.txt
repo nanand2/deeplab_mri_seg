@@ -5,4 +5,4 @@ opencv-python
 nibabel
 numpy
 glob2
-tensorflow==1.14.0
+tensorflow==2.7.2
